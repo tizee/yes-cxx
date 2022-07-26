@@ -1,6 +1,6 @@
 .PHONY: clean, mrproper
 CC = g++
-CFLAGS = -g -Wall -std=c++11
+CFLAGS = -g -O2 -Wall -std=c++11
 
 all: yes
 

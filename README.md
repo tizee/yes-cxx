@@ -8,6 +8,18 @@ Yes, but in c++.
 make
 ```
 
+## Benchmark
+
+Benchmark with `pv` (see `bench.sh').
+
+```
+./yes
+[3.33GiB/s]
+
+yes
+[ 744MiB/s]
+```
+
 ## Acknowledgement
 
 - https://github.com/zigcc/forum/discussions/4
